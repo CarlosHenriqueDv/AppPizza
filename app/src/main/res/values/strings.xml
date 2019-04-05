@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppPizza</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_endereco">Endereço</string>
+    <string name="txt_sabor">Sabor da pizza</string>
+    <string name="txt_tamanho">Tamanho da pizza</string>
+    <string name="txt_pequena">Pequena</string>
+    <string name="txt_media" >Media</string>
+    <string name="txt_Grande">Grande</string>
+    <string name="txt_refrigerante">Refrigerante 2L</string>
+    <string name="txt_avalicao">Avaliação do último pedido</string>
+</resources>
